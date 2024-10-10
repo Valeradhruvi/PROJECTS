@@ -1,0 +1,41 @@
+#text{
+    font-family: 'Times New Roman', Times, serif;
+}
+#background{
+    background-image: linear-gradient(black , maroon);
+}
+#text{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    letter-spacing: 2px;
+    /* font-variant-caps:petite-caps; */
+}
+.generalBackground{
+    background-color: burlywood;
+}
+.generalBackground2{
+    background-color: sienna;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-variant-caps:petite-caps;
+    font-size:large;
+    /* letter-spacing: 2px; */
+}
+.text2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:brown ;
+    font-size: medium;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px rgba(0, 0, 0, 0.817) ;
+    
+}
+
+.text3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: sienna;
+    font-variant-caps: titling-caps;
+    font-size: large;
+}
